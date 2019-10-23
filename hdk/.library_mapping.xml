@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.sigasi.hdt.shared.librarymapping.model:LibraryMappings xmlns:com.sigasi.hdt.shared.librarymapping.model="com.sigasi.hdt.vhdl.scoping.librarymapping" Version="2">
+  <Mappings Location="cl/examples/cl_sde" Library="not mapped"/>
+  <Mappings Location="cl/examples/cl_uram_example" Library="not mapped"/>
+  <Mappings Location="common/shell_stable/design/interfaces/cl_ports.vh" Library="not mapped"/>
+  <Mappings Location="common/shell_stable/design/ip/cl_debug_bridge/bd_0/ip/ip_0/hdl/verilog" Library="not mapped"/>
+  <Mappings Location="common/shell_stable/design/ip/ddr4_core/rtl/ip_top/old_ddr4_core.sv" Library="not mapped"/>
+  <Mappings Location="common/shell_stable/design/ip/ddr4_core/rtl/ip_top/old_ddr4_core_ddr4.sv" Library="not mapped"/>
+  <Mappings Location="common/shell_stable/design/ip/ddr4_core/rtl/ip_top/old_ddr4_core_ddr4_mem_intfc.sv" Library="not mapped"/>
+  <Mappings Location="common/shell_stable/design/ip/ila_0/hdl/verilog" Library="not mapped"/>
+  <Mappings Location="common/shell_stable/design/ip/ila_1/hdl/verilog" Library="not mapped"/>
+  <Mappings Location="common/shell_stable/design/ip/ila_vio_counter/hdl/verilog" Library="not mapped"/>
+  <Mappings Location="common/shell_stable/design/ip/vio_0/hdl/verilog" Library="not mapped"/>
+  <Mappings Location="common/shell_stable/hlx/verif/cl_ports_sh_bfm.vh" Library="not mapped"/>
+  <Mappings Location="common/shell_stable/new_cl_template" Library="not mapped"/>
+  <Mappings Location="common/shell_v04261818" Library="not mapped"/>
+  <Mappings Location="common/verif/models/sh_bfm/sh_bfm_defines.svh" Library="not mapped"/>
+  <Mappings Location="" Library="work"/>
+</com.sigasi.hdt.shared.librarymapping.model:LibraryMappings>

@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+includePath=common/verif/include;common/shell_stable/design/ip/cl_axi_interconnect/ipshared/ec67/hdl;common/shell_stable/design/interfaces;cl/examples/common/design;common/shell_stable/design/ip/ddr4_core/ip_1/rtl/map;common/shell_stable/hlx/verif
